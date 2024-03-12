@@ -1,2 +1,2 @@
 # delta
-this is a trial
+This is a trial.
